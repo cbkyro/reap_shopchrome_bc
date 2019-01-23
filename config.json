@@ -1,5 +1,5 @@
 {
-  "name": "Ella Stencil Premium - Jan 2 2019",
+  "name": "Ella Stencil Premium - 1-22-19 Brands",
   "version": "1.0.4",
   "meta": {
     "price": 15000,
@@ -52,7 +52,7 @@
     "categorypage_products_per_page": 40,
     "categorypage_products_column_count": 4,
     "side_top_products_count": 8,
-    "brandpage_products_per_page": 16,
+    "brandpage_products_per_page": 9999,
     "searchpage_products_per_page": 20,
     "show_product_quick_view": true,
     "show_product_brand": true,
@@ -348,7 +348,7 @@
         "categorypage_products_per_page": 40,
         "categorypage_products_column_count": 4,
         "side_top_products_count": 8,
-        "brandpage_products_per_page": 40,
+        "brandpage_products_per_page": 9999,
         "searchpage_products_per_page": 50,
         "show_product_quick_view": true,
         "show_product_brand": true,

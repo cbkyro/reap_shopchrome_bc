@@ -49,4 +49,14 @@ img.brand-logo-heading{
             font-family: $fontFamily-sans;
         }
     }
+
+    &.list {
+        .card { 
+            margin-bottom: 0;
+
+            .card-title { 
+                text-align: left;
+            }
+        }
+    }
 }
