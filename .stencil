@@ -1,0 +1,12 @@
+{
+  "normalStoreUrl": "https://www.shopchrome.com/",
+  "port": 3000,
+  "clientId": "ekxim4l7xn9ywb5ptwjn4ul6bxbsq6n",
+  "accessToken": "hg813m0mkfy5n46btnedsq6zc9udrlh",
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
